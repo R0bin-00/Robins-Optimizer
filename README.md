@@ -125,3 +125,7 @@ Set `GITHUB_REPO = "your-name/your-repo"` in the script and attach `RobinsOptimi
 ## ⚠️ Disclaimer
 
 This tool changes system settings. Create a restore point first (Backup & Undo). Disabling Defender, services or removing apps/features lowers security or cannot be undone for removed apps. Use at your own risk.
+
+## License
+
+Copyright (c) 2026 R0bin-00. All rights reserved.
