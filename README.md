@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="256" height="256" alt="app" src="https://github.com/user-attachments/assets/b808db3a-a667-44ac-ad1e-bdd4c2a1fcdb" />
+  <img width="256" height="256" alt="app" src="https://github.com/user-attachments/assets/f60394af-d66c-452a-af83-8d424edf223b" />
+
+
 
 
 <h1 align="center">Røbin's Optimizer</h1>
