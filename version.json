@@ -1,7 +1,26 @@
 {
-  "version": "1.1",
   "name": "Røbin's Optimizer",
-  "released": "2026-11-27",
-  "download": "https://github.com/R0bin-00/Robins-Optimizer/releases/download/1.1/RobinOptimizer.exe",
-  "notes": "Neue Tweaks und Bugfixes"
+  "version": "2.0",
+  "release_date": "2026-11-28",
+  "download": "https://github.com/R0bin-00/Robins-Optimizer/releases/latest",
+  "changes": {
+    "new": [
+      "Completely redesigned UI – new dark look, smoother page and sidebar animations",
+      "The whole app is now in English",
+      "Many more tweaks across all categories",
+      "Additional power-saving features can be disabled for maximum performance",
+      "YouTube and Discord buttons in the top right corner",
+      "Spotify Controller spotlight on the Overview – closable, comes back via the icon in the top right"
+    ],
+    "improved": [
+      "Cleaner, more consistent design across every page",
+      "Auto-update via GitHub releases"
+    ]
+  },
+  "links": {
+    "github": "https://github.com/R0bin-00/Robins-Optimizer",
+    "youtube": "https://www.youtube.com/@R%C3%B8bin-o8d4t",
+    "discord": "https://discord.gg/QW6yr9AH9H",
+    "spotify_controller": "https://github.com/R0bin-00/Spotify-Controller"
+  }
 }
